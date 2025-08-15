@@ -1,0 +1,28 @@
+{   
+    "students":[
+                 {
+                 "name":"ravi",
+                   "age":33,
+               "is_developer":true,
+              "skills":["html","css","javascript"],
+                   "address":
+               {
+                 "city":"Hyd",
+                 "state":"Telangana"
+               }
+                 },
+                 {
+                 "name":"ram",
+                  "age":45,
+               "is_developer":true,
+             "skills":["python"],
+              "address":
+               {
+                 "city":"vizag",
+                 "state":"Andhra"
+               }
+              }
+   
+    ]
+   
+}
